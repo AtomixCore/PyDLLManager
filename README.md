@@ -108,12 +108,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- **Omar Mohamed**  
-  [GitHub](https://github.com/oar06g/PyDLLManager)  
+- **AtomixCore**  
+  [GitHub](https://github.com/AtomixCore/PyDLLManager)  
   Version: 1.1.0
 
 ---
 
-**Note**: Be sure to replace `"path/to/your/dll/file.dll"` with the actual path to your DLL file in the examples.
-
-thank you for using my project
+thank you for using PyDLLManager
